@@ -12,7 +12,7 @@ Pokemon Emerald Zero is a decomp hack project based off RHH's pokeemerald-expans
 - [X] Reusable TMs
 - [ ] Updated Battle Backgrounds
 - [X] Upgraded HGSS Style Pokedex
-- [ ] Improved Trainer AI (Difficult)
+- [X] Improved Trainer AI (Difficult)
 - [X] Soft Level Cap (Reduced EXP)
 - [X] EXP Share Key Item Toggle
 - [ ] Use HMs from Bag
