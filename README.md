@@ -6,7 +6,7 @@ Pokemon Emerald Zero is a decomp hack project based off RHH's pokeemerald-expans
 - [X] National Dex Gens 1-3
 - [ ] National Dex Grass Spawns
 - [X] HGSS Follower System
-- [ ] No Battle Gimmicks
+- [X] No Battle Gimmicks
 - [X] Modern Battle Mechanics and Items
 - [X] Graphics Refresh (ORAS Tileset)
 - [X] Reusable TMs
