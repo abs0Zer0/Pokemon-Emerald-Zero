@@ -18,6 +18,7 @@ Pokemon Emerald Zero is a decomp hack project based off RHH's pokeemerald-expans
 - [ ] Use HMs from Bag
 - [X] Removeable HMs
 - [X] Instant Text Speed
+- [ ] Automatic Flash in Caves
 - [X] Misc QOL Updates
 
 ## Credits
