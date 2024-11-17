@@ -3,7 +3,7 @@
 Pokemon Emerald Zero is a decomp hack project based off RHH's pokeemerald-expansion (https://github.com/rh-hideout/pokeemerald-expansion/). This is my first attempt at jumping into ROM hacking and serves as a way to learn more about the inner workings of the beloved older Pokemon games.
 
 ## Roadmap
-- [X] National Dex Gens 1-3
+- [ ] National Dex Gens 1-3
 - [ ] National Dex Grass Spawns
 - [X] HGSS Follower System
 - [X] No Battle Gimmicks
@@ -15,7 +15,7 @@ Pokemon Emerald Zero is a decomp hack project based off RHH's pokeemerald-expans
 - [X] Improved Trainer AI (Difficult)
 - [X] Soft Level Cap (Reduced EXP)
 - [X] EXP Share Key Item Toggle
-- [ ] Use HMs from Bag
+- [X] Use HMs without Learning
 - [X] Removeable HMs
 - [X] Instant Text Speed
 - [X] Automatic Flash in Caves
