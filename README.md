@@ -10,7 +10,7 @@ Pokemon Emerald Zero is a decomp hack project based off RHH's pokeemerald-expans
 - [X] Modern Battle Mechanics and Items
 - [X] Graphics Refresh (ORAS Tileset)
 - [X] Reusable TMs
-- [ ] Updated Battle Backgrounds
+- [X] Updated Battle Backgrounds
 - [X] Upgraded HGSS Style Pokedex
 - [X] Improved Trainer AI (Difficult)
 - [X] Soft Level Cap (Reduced EXP)
@@ -25,3 +25,4 @@ Pokemon Emerald Zero is a decomp hack project based off RHH's pokeemerald-expans
 - pokeemerald-expansion (https://github.com/rh-hideout/pokeemerald-expansion/)
 - Team Aquas Asset Repo (https://github.com/Pawkkie/Team-Aquas-Asset-Repo)
 - LeoB ORAS Tileset (https://github.com/Pawkkie/Team-Aquas-Asset-Repo/tree/main/Tilesets/The%20Great%20Tileset%20Exchange/Full%20Tilesets/LeoB%20ORAS)
+- RavePossum/Ruki Vanilla+ Battle Backgrounds (https://github.com/Pawkkie/Team-Aquas-Asset-Repo/tree/main/Battle%20Backgrounds/RavePossum)
