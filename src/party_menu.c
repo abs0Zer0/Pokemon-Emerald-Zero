@@ -2799,7 +2799,7 @@ static void SetPartyMonFieldSelectionActions(struct Pokemon *mons, u8 slotId)
     // Add field moves to action list
     for (i = 0; i != FIELD_MOVES_COUNT; i++)
     {
-        if ((CanLearnTeachableMove(GetMonData(&mons[slotId], MON_DATA_SPECIES_OR_EGG), sFieldMoves[i]) == TRUE) && sPartyMenuInternal->numActions < 5 && (sFieldMoves[i] == MOVE_FLY || sFieldMoves[i] == MOVE_DIVE || sFieldMoves[i] == MOVE_SECRET_POWER))
+        if ((CanLearnTeachableMove(GetMonData(&mons[slotId], MON_DATA_SPECIES_OR_EGG), sFieldMoves[i]) == TRUE) && sPartyMenuInternal->numActions < 5 && (sFieldMoves[i] == MOVE_FLY || sFieldMoves[i] == MOVE_DIVE))
         {
                 AppendToList(sPartyMenuInternal->actions, &sPartyMenuInternal->numActions, i + MENU_FIELD_MOVES);
         }
